@@ -29,4 +29,4 @@ If you have installed zookeeper, start it, or run the command:
 
 ### Run the consumer
 
-```java -cp ./target/scala-2.11/apache-kafka-example-assembly-1.0.jar com.github.dietmax.ConsumerExample
+```java -cp ./target/scala-2.11/apache-kafka-example-assembly-1.0.jar com.github.dietmax.ConsumerExample```
