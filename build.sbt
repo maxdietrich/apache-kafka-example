@@ -2,7 +2,7 @@ name := "apache-kafka-example"
 
 version := "1.0"
 
-scalaVersion := "2.11.10"
+scalaVersion := "2.11.11"
 
 libraryDependencies ++= Seq(
   "org.apache.kafka" % "kafka_2.11" % "0.10.2.1"
